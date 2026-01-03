@@ -10,7 +10,7 @@
 
 ## Abstract
 
-In this paper, we develop the machinery needed to investigate and solve the Basel problem in two ways: through Fourier series and through partial fraction decomposition. We then move on to the zeta function, showing how to compute values such as \(\zeta(4)\) and, more generally, \(\zeta(2n)\). Finally, we give a brief overview of the Riemann Hypothesis, including a few key definitions and the statement of the conjecture. The paper is meant to be self-contained and assumes only introductory analysis along with some basic complex analytic tools.
+In this paper, we develop the machinery needed to investigate and solve the Basel problem in two ways: through Fourier series and through partial fraction decomposition. We then move on to the zeta function, showing how to compute values such as $\zeta(4)$ and, more generally, $\zeta(2n)$. Finally, we give a brief overview of the Riemann Hypothesis, including a few key definitions and the statement of the conjecture. The paper is meant to be self-contained and assumes only introductory analysis along with some basic complex analytic tools.
 
 ---
 
